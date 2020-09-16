@@ -10,7 +10,6 @@ public class FoodOrder {
     private String orderDescription;
 
     public FoodOrder(){
-
     }
 
     public FoodOrder(String restaurant, String customerAddress, String orderDescription) {

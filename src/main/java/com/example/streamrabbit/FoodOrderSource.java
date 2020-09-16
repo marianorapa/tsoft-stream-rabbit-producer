@@ -7,5 +7,4 @@ public interface FoodOrderSource {
 
     @Output("foodOrdersChannel")
     MessageChannel foodOrders();
-
 }
