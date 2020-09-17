@@ -1,4 +1,4 @@
-package com.example.streamrabbit;
+package com.tsoftlatam.springcloudstream.producer;
 
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;

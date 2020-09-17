@@ -1,4 +1,4 @@
-package com.example.streamrabbit;
+package com.tsoftlatam.springcloudstream.producer;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

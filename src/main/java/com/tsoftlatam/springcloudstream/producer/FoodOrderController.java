@@ -1,4 +1,4 @@
-package com.example.streamrabbit;
+package com.tsoftlatam.springcloudstream.producer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.support.MessageBuilder;
@@ -20,4 +20,5 @@ public class FoodOrderController {
         System.out.println(foodOrder.toString() + " enviada");
         return "Food ordered!";
     }
+
 }
